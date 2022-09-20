@@ -1,0 +1,21 @@
+{
+  "name": "domino_token",
+  "version": "1.0.0",
+  "description": "Based off of ButterFly Cash, originally created by @xrpant on Twitter. The token allows users holding x amount of tokens to stake and receive x amount of all transfers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts": "^4.7.3",
+    "dotenv": "^16.0.2",
+    "hardhat": "^2.11.2",
+    "hardhat-contract-sizer": "^2.6.1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0"
+  }
+}
