@@ -11,7 +11,11 @@ In order to run this repository on your machine you will need the following:
 
 After logging into your Github Account through VS Code or your preferred IDE, you can clone the repository.
 
-To get a copy of the repository onto your machine, the easiest way to do this is through HTTPS. At the top of this page there should be a green button on the right with the word "Code" on it. Click this, if the HTTPS tab is not selected when the tab opens up, select it and copy the link that it provides.
+To get a copy of the repository onto your machine, the easiest way to do this is through HTTPS. At the top of this page there should be a green button on the right with the word "Code" on it. Click this, if the HTTPS tab is not selected when the tab opens up, select it and copy the link that it provides. If you can't find it, here is the link:
+
+```
+https://github.com/lootboi/domino_token.git
+```
 
 Next, go back into VS Code and open up a new window. In the middle of the page there should be an option to Clone a repository from Github, select this and copy + paste the HTTPS link that we got earlier. Press enter, and the IDE will automatically create a copy of the repo on your machine. 
 
