@@ -3,6 +3,7 @@
 ## Prerequesites
 
 In order to run this repository on your machine you will need the following:
+
 ```npm``` [Download](https://nodejs.org/en/download/) --> Package manager
 ```VS Code (or other IDE)``` [Download](https://code.visualstudio.com/)
 ```Github for VS CODE``` [Dowload](https://vscode.github.com/) (Makes it easier to clone repositories)
